@@ -4,7 +4,7 @@
 
 An awesome list about crypto trading bots, with open source bots, technical analysis and market librairies, data providers, ... :robot: :rocket:
 
-Build with love by [botcrypto](https://botcrypto.io), the best no-code crypto trading bot tool.
+Build with love by [botcrypto](https://botcrypto.io), a no-code crypto trading bot platform.
 
 ## Table of contents
 
@@ -15,16 +15,16 @@ Build with love by [botcrypto](https://botcrypto.io), the best no-code crypto tr
 
 ## Open source bots
 
-* [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
-* [freqtrade](https://github.com/freqtrade/freqtrade) - Free and open source crypto trading bot
-* [gekko](https://github.com/askmike/gekko) - Bitcoin trading bot written in Node.js
-* [Hummingbot](https://hummingbot.io/)] - A software that allows you to create and execute customizable trading strategies in Windows/Linux/MacOS.
-* [jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python.
-* [Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - A Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++
+* [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - rypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
+* [freqtrade](https://github.com/freqtrade/freqtrade) - Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
+* [gekko](https://github.com/askmike/gekko) - [DEPRECATED] Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
+* [Hummingbot](https://github.com/coinalpha/hummingbot) - Hummingbot is an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
+* [jesse](https://github.com/jesse-ai/jesse) - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
+* [K](https://github.com/ctubio/Krypto-trading-bot) - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
 * [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
-* [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client , developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
-* [WolfBot](https://github.com/Ekliptor/WolfBot) - A crypto currency trading bot written in TypeScript for NodeJS
-* [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line crypto trading bot using Node.js and MongoDB.
+* [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
+* [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for NodeJS.
+* [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
 ## Technical analysis libraries
 
