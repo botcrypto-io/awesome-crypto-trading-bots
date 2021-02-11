@@ -12,6 +12,7 @@ Build with love by [botcrypto](https://botcrypto.io), a no-code crypto trading b
 * [Technical analysis libraries](#technical-analysis-libraries)
 * [Market data libraries](#market-data-libraries)
 * [API and data providers](#api-and-data-providers)
+* [Charting libraries](#charting-libraries)
 
 ## Open source bots
 
@@ -51,4 +52,7 @@ Build with love by [botcrypto](https://botcrypto.io), a no-code crypto trading b
 - [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 - [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 
+## Charting libraries
 
+- [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
+- [Highchart Stock](https://www.highcharts.com/blog/products/stock/) - Create stock or general timeline charts for your web and mobile apps. Features user annotations and over 40 built-in Technical Indicators. Licensed.
