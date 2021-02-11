@@ -42,4 +42,13 @@ Build with love by [botcrypto](https://botcrypto.io), a no-code crypto trading b
 - [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A node.js library for the Binance API designed to be easy to use. 
 
 ##  API and data providers
+- [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+- [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
+- [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
+- [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
+- [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
+- [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
+- [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
+- [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
+
 
