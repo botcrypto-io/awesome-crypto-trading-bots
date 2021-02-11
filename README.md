@@ -2,9 +2,9 @@
 
 ## About 
 
-An awesome list about crypto trading bots, with open source bots, technical analysis and market librairies, data providers, ... :robot: :rocket:
+An awesome list about crypto trading bots, with open source bots, technical analysis and market data librairies, data providers, ... :robot: :rocket:
 
-Build with love by [botcrypto](https://botcrypto.io), a no-code crypto trading bot platform.
+Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_medium=side), a no-code crypto trading bot platform. PR welcomed!
 
 ## Table of contents
 
