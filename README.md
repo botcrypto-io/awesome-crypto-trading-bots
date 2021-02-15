@@ -50,7 +50,8 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
 * [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
 - [Crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots)
-- [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A node.js library for the Binance API designed to be easy to use. 
+- [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A node.js library for the Binance API designed to be easy to use.
+- [ccxws](https://github.com/altangent/ccxws) - A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.
 
 ##  API and data providers
 - [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
