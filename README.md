@@ -1,6 +1,6 @@
 # Awesome crypto trading bots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## About 
+## About
 
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, ... :robot: :rocket:
 
@@ -34,12 +34,12 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 ## Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) -  An algorithmic trading library for crypto-assets written in Python.
-* [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas. 
+* [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 * [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
 * [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
 * [ta-lib](https://github.com/mrjbq7/ta-lib) - A widely used library by trading software developers requiring to perform technical analysis of financial market data.
 * [tulipindicators](https://github.com/TulipCharts/tulipindicators) - A technical analysis indicator function library in C.
-* [technicalindicators](https://github.com/anandanand84/technicalindicators) - A JS library with 20+ technical indicators and 30+ candlestick patterns. 
+* [technicalindicators](https://github.com/anandanand84/technicalindicators) - A JS library with 20+ technical indicators and 30+ candlestick patterns.
 * [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
 * [TechAn](https://github.com/sdcoffey/techan) - TechAn is a technical analysis library for Go! It provides basic and advanced technical analysis indicators, profit and trade analysis and strategy building.
@@ -47,6 +47,7 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 
 ## Market data libraries
 
+* [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken
 * [blockatlas](https://github.com/trustwallet/blockatlas) - A clean and lightweight cross-chain transaction API
 * [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
 * [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
