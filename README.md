@@ -40,12 +40,13 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
 * [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
 * [ta-lib](https://github.com/mrjbq7/ta-lib) - A widely used library by trading software developers requiring to perform technical analysis of financial market data.
+* [ta-rs](https://github.com/greyblake/ta-rs) -  Technical analysis library for Rust language.
+* [ta4j](https://github.com/ta4j/ta4j) - Ta4j is an open source Java library for technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.
+* [TechAn](https://github.com/sdcoffey/techan) - TechAn is a technical analysis library for Go! It provides basic and advanced technical analysis indicators, profit and trade analysis and strategy building.
 * [tulipindicators](https://github.com/TulipCharts/tulipindicators) - A technical analysis indicator function library in C.
 * [technicalindicators](https://github.com/anandanand84/technicalindicators) - A JS library with 20+ technical indicators and 30+ candlestick patterns.
 * [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
-* [TechAn](https://github.com/sdcoffey/techan) - TechAn is a technical analysis library for Go! It provides basic and advanced technical analysis indicators, profit and trade analysis and strategy building.
-* [ta-rs](https://github.com/greyblake/ta-rs) -  Technical analysis library for Rust language.
 
 ## Market data libraries
 
