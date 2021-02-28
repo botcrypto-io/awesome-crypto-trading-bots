@@ -69,6 +69,7 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
+* [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
 
 ## Charting libraries
 
