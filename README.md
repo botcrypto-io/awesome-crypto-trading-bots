@@ -17,6 +17,7 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 ## Open source bots
 
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
+* [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management. 
 * [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
 * [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, ...
 * [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
