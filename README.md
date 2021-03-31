@@ -28,6 +28,7 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
 * [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 * [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
+* [Superalgos](https://github.com/Superalgos/Superalgos) - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
 * [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for Node.js.
 * [wolfinch](https://github.com/ldmonko/wolfinch) - A Python trading bot supporting algorithmic trading for equity market and cryptocurrency exchanges. The modularized implementation is easily extensible to support more exchanges, trading strategies and indicators. A simple UI is available out of the box to view trades and allow basic controls in operation.
 * [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
