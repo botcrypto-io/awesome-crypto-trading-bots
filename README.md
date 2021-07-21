@@ -54,6 +54,7 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 ## Market data libraries
 
 * [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
+* [bitpanda-ws](https://github.com/IOfate/bitpanda-ws) - Node.js websocket client for BitPanda.
 * [blockatlas](https://github.com/trustwallet/blockatlas) - A clean and lightweight cross-chain transaction API.
 * [bybit-api](https://github.com/tiagosiebler/bybit-api) - A typed Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
 * [ccxws](https://github.com/altangent/ccxws) - A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.
