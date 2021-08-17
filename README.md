@@ -55,13 +55,14 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 
 * [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
 * [bitpanda-ws](https://github.com/IOfate/bitpanda-ws) - Node.js websocket client for BitPanda.
+* [binance](https://github.com/tiagosiebler/binance) - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.
 * [blockatlas](https://github.com/trustwallet/blockatlas) - A clean and lightweight cross-chain transaction API.
-* [bybit-api](https://github.com/tiagosiebler/bybit-api) - A typed Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
+* [bybit-api](https://github.com/tiagosiebler/bybit-api) - A typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
 * [ccxws](https://github.com/altangent/ccxws) - A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.
 * [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
 * [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
 * [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
-* [ftx-api](https://github.com/tiagosiebler/ftx-api) - A typed Node.js library for the FTX REST APIs and Websockets, available on npm, for the backend and the browser.
+* [ftx-api](https://github.com/tiagosiebler/ftx-api) - A typed & heavily tested TypeScript/Node.js library for the FTX REST APIs and Websockets, available on npm, for the backend and the browser.
 * [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A Node.js library for the Binance API designed to be easy to use.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
 
@@ -90,6 +91,10 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 ## Development Communities
 ### Telegram
 
-* [Crypto Trading Bots Discussion](https://t.me/CryptoTradeBots) - A community for traders using algoritms, bots or auto trading software in crypto.
+* [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algoritms, bots or auto trading software in crypto.
 * [Node.js Algo Traders](https://t.me/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
 * [PineScripters](https://t.me/pinescripters) - The most active independent community of Pine Scripters on the planet. Share ideas, resources & learn.
+
+### Forums
+
+- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algoritms, bots or auto trading software in crypto.
