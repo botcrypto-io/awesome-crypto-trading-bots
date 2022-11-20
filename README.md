@@ -59,13 +59,14 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [kucoin-ws](https://github.com/IOfate/kucoin-ws) - Node.js websocket client for KuCoin.
 * [binance](https://github.com/tiagosiebler/binance) - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.
 * [blockatlas](https://github.com/trustwallet/blockatlas) - A clean and lightweight cross-chain transaction API.
-* [bybit-api](https://github.com/tiagosiebler/bybit-api) - A typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
+* [bybit-api](https://github.com/tiagosiebler/bybit-api) - A complete, typed & heavily tested TypeScript/Node.js library for the Bybit REST APIs and Websockets, available on npm, for the backend and the browser.
 * [ccxws](https://github.com/altangent/ccxws) - A JavaScript library for connecting to realtime public APIs on all cryptocurrency exchanges.
 * [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
 * [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
 * [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
 * [ftx-api](https://github.com/tiagosiebler/ftx-api) - A typed & heavily tested TypeScript/Node.js library for the FTX REST APIs and Websockets, available on npm, for the backend and the browser.
 * [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A Node.js library for the Binance API designed to be easy to use.
+* [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
 
 ## API and data providers
@@ -83,12 +84,14 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 ## Charting libraries
 
 * [TradingView](https://fr.tradingview.com/widget/) - Charts and real-time quotes. You can use TradingView data or your own data. Free to use.
+* [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
 * [TradingVue.js](https://github.com/tvjsx/trading-vue-js) - Hackable charting library for traders built for vue.js applications.
 * [Highchart Stock](https://www.highcharts.com/blog/products/stock/) - Create stock or general timeline charts for your web and mobile apps. Features user annotations and over 40 built-in Technical Indicators. Licensed.
 
 ## Miscellaneous tools
 
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
+* [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
 
 ## Development Communities
 ### Telegram
