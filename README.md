@@ -82,6 +82,8 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
+* [Finestel](https://finestel.com/) - Portfolio tracking on Binance, KuCoin & Bybit (real-time & historical orders’ data of users' portfolios when connected: limit orders, market orders, open orders, deposits/withdrawals) + exchange account management + crypto asset management + clients management, white label copy trading, spot & futures copy trading.
+Some services are free.
 
 ## Charting libraries
 
