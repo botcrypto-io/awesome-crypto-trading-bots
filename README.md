@@ -35,6 +35,8 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for Node.js.
 * [wolfinch](https://github.com/ldmonko/wolfinch) - A Python trading bot supporting algorithmic trading for equity market and cryptocurrency exchanges. The modularized implementation is easily extensible to support more exchanges, trading strategies and indicators. A simple UI is available out of the box to view trades and allow basic controls in operation.
 * [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+* [crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester) - Easy-to-use cryptocurrency trading strategy simulator and backtester
+* [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 
 ## Technical analysis libraries
 
@@ -93,6 +95,7 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
 * [financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation) - Analyze financial data correlations fast and easily
+* [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 
 ## Development Communities
 ### Telegram
