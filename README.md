@@ -36,6 +36,7 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [wolfinch](https://github.com/ldmonko/wolfinch) - A Python trading bot supporting algorithmic trading for equity market and cryptocurrency exchanges. The modularized implementation is easily extensible to support more exchanges, trading strategies and indicators. A simple UI is available out of the box to view trades and allow basic controls in operation.
 * [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 * [crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester) - Easy-to-use cryptocurrency trading strategy simulator and backtester
+* [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 
 ## Technical analysis libraries
 
