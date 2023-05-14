@@ -25,6 +25,7 @@ Build with love by [botcrypto](https://botcrypto.io/?mtm_campaign=actb&mtm_mediu
 * [Frostybot-JS](https://github.com/CryptoMF/frostybot-js) - A Node.js API endpoint for cryptocurrency trading (e.g via TradingView webhooks)
 * [gekko](https://github.com/askmike/gekko) - DEPRECATED - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
 * [Hummingbot](https://github.com/coinalpha/hummingbot) - Hummingbot is an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
+* [Intelligent Trading Bot](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
 * [jesse](https://github.com/jesse-ai/jesse) - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
 * [K](https://github.com/ctubio/Krypto-trading-bot) - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
 * [Kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.
