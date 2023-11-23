@@ -37,6 +37,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 * [crypto-trading-strategy-backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester) - Easy-to-use cryptocurrency trading strategy simulator and backtester
 * [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
+* [Solie](https://github.com/cunarist/solie) - The utlimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 
 ## Technical analysis libraries
 
