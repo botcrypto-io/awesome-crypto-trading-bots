@@ -95,6 +95,8 @@ Experience the **ultimate trading bot marketplace** and online **crypto trading 
 * [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
 * [TradingVue.js](https://github.com/tvjsx/trading-vue-js) - Hackable charting library for traders built for vue.js applications.
 * [Highchart Stock](https://www.highcharts.com/blog/products/stock/) - Create stock or general timeline charts for your web and mobile apps. Features user annotations and over 40 built-in Technical Indicators. Licensed.
+* [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) - Trade chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
+* [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
 
 ## Miscellaneous tools
 
