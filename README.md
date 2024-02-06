@@ -107,10 +107,10 @@ Experience the **ultimate trading bot marketplace** and online **crypto trading 
 ## Development Communities
 ### Telegram
 
-* [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algoritms, bots or auto trading software in crypto.
+* [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algorithms, bots or auto trading software in crypto.
 * [Node.js Algo Traders](https://t.me/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
 * [PineScripters](https://t.me/pinescripters) - The most active independent community of Pine Scripters on the planet. Share ideas, resources & learn.
 
 ### Forums
 
-- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algoritms, bots or auto trading software in crypto.
+- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
