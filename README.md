@@ -95,6 +95,8 @@ Experience the **ultimate trading bot marketplace** and online **crypto trading 
 * [TradingView Lightweight Charts](https://github.com/tradingview/lightweight-charts) - TradingView Lightweight Charts are one of the smallest and fastest financial HTML5 charts.
 * [TradingVue.js](https://github.com/tvjsx/trading-vue-js) - Hackable charting library for traders built for vue.js applications.
 * [Highchart Stock](https://www.highcharts.com/blog/products/stock/) - Create stock or general timeline charts for your web and mobile apps. Features user annotations and over 40 built-in Technical Indicators. Licensed.
+* [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
+* [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
 
 ## Miscellaneous tools
 
@@ -107,10 +109,10 @@ Experience the **ultimate trading bot marketplace** and online **crypto trading 
 ## Development Communities
 ### Telegram
 
-* [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algoritms, bots or auto trading software in crypto.
+* [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algorithms, bots or auto trading software in crypto.
 * [Node.js Algo Traders](https://t.me/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
 * [PineScripters](https://t.me/pinescripters) - The most active independent community of Pine Scripters on the planet. Share ideas, resources & learn.
 
 ### Forums
 
-- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algoritms, bots or auto trading software in crypto.
+- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
