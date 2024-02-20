@@ -116,3 +116,10 @@ Experience the **ultimate trading bot marketplace** and online **crypto trading 
 ### Forums
 
 - [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
+
+---
+
+Create **trading bots** and follow **smart investors** with [Coinrule](https://coinrule.com?fp_ref=botcrypto)
+
+[![coinrule](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/530f18f1-0e93-4ed1-8d66-36eb96276053)](https://coinrule.com?fp_ref=botcrypto)
+
