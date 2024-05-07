@@ -71,7 +71,6 @@ Experience the **ultimate trading bot marketplace** and online **crypto trading 
 * [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
 * [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
 * [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
-* [ftx-api](https://github.com/tiagosiebler/ftx-api) - A typed & heavily tested TypeScript/Node.js library for the FTX REST APIs and Websockets, available on npm, for the backend and the browser.
 * [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A Node.js library for the Binance API designed to be easy to use.
 * [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
