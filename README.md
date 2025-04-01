@@ -47,6 +47,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 ## Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
+* [chart-patterns](https://github.com/focus1691/chart-patterns) - A technical analysis library for chart patterns, price action, and volume-based pattern detection.
 * [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 * [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
 * [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
@@ -101,6 +102,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 ## Miscellaneous tools
 
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
+* [orderflow](https://github.com/focus1691/orderflow) - Builds real-time Footprint Candles from WebSocket trade data across crypto exchanges.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
 * [financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation) - Analyze financial data correlations fast and easily
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
