@@ -33,7 +33,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.
 * [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
 * [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
-* [PingPong](https://github.com/panifie/PingPong.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
+* [Planar](https://github.com/psydyllic/Planar.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
 * [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
 * [Superalgos](https://github.com/Superalgos/Superalgos) - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
 * [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for Node.js.
