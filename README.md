@@ -61,6 +61,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [technicalindicators](https://github.com/anandanand84/technicalindicators) - A JS library with 20+ technical indicators and 30+ candlestick patterns.
 * [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use library that leverages the Pandas library with more than 120 Indicators and Utility functions.
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
+* [ChartScout](https://chartscout.io/trading-education) - Real-time chart pattern detection and alerts for crypto trading with technical analysis indicators.
+
 
 ## Market data libraries
 
@@ -89,7 +91,6 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
-* [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
 
@@ -101,6 +102,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Highchart Stock](https://www.highcharts.com/blog/products/stock/) - Create stock or general timeline charts for your web and mobile apps. Features user annotations and over 40 built-in Technical Indicators. Licensed.
 * [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
 * [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
+* [ChartScout](https://chartscout.io/trading-education) - Real-time chart pattern detection and alerts for crypto trading with technical analysis indicators.
+
 
 ## Miscellaneous tools
 
