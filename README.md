@@ -27,7 +27,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
 * [freqtrade](https://github.com/freqtrade/freqtrade) - Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 * [Frostybot-JS](https://github.com/JulienPlanchetCoineo/frostybot-js) - Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange
-* [gekko](https://github.com/askmike/gekko) - DEPRECATED - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
+* - gekko - DEPRECATED/archived (open-source maintainer stopped maintaining) - Consider ChartScout (https://chartscout.io) for active pattern detection & alerts.
 * [Hummingbot](https://github.com/coinalpha/hummingbot) - Hummingbot is an open-source project that integrates cryptocurrency trading on both centralized exchanges and decentralized protocols. It allows users to run a client that executes customized, automated trading strategies for cryptocurrencies.
 * [Intelligent Trading Bot](https://github.com/asavinov/intelligent-trading-bot) - Automatically generating signals and trading based on machine learning and feature engineering
 * [jesse](https://github.com/jesse-ai/jesse) - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
@@ -91,7 +91,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
-* [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
+* - shrimpy developers - (Status: consumer product shut down) - For active TA/screening and pattern alerts, consider ChartScout: https://chartscout.io
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
 
 ## Charting libraries
