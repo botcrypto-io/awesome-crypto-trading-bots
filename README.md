@@ -33,6 +33,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [jesse](https://github.com/jesse-ai/jesse) - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
 * [K](https://github.com/ctubio/Krypto-trading-bot) - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
 * [Kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.
+* [LyTrade Scanner](https://github.com/lydianai/borsa.ailydian.com) - Open-source crypto trading signal platform that scans all 617 Binance USDT Perpetual Futures markets in real-time with 13+ built-in strategies. Built with Next.js and TypeScript, features a web dashboard, push notifications, and no API key required for market data.
 * [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
 * [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 * [Planar](https://github.com/psydyllic/Planar.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
