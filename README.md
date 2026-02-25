@@ -45,6 +45,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 * [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 * [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT.
+* [NoxBaseBot](https://github.com/dayi1000/NoxBaseBot) - A Telegram crypto trading bot for Base chain with 23+ commands including real-time prices, portfolio tracking, PnL analysis, token comparison, whale alerts, gas monitoring, and trading signals. Built with Node.js and CoinGecko API. Try it: [@NoxBaseBot](https://t.me/NoxBaseBot).
 
 ## Technical analysis libraries
 
