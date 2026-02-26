@@ -83,13 +83,13 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
-* [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
 * [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
+* [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
