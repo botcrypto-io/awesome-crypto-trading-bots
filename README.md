@@ -83,6 +83,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
+* [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
 * [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
