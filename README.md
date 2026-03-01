@@ -90,6 +90,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
+* [Free Crypto Price API](https://crypto-price-landing.vercel.app) - Real-time prices for 275+ crypto assets via Hyperliquid. No authentication, no rate limits. Free forever.
+* [Hyperliquid Futures API](https://agent-gateway-kappa.vercel.app) - Unified REST API for perpetual futures on Hyperliquid. 275+ markets, OHLCV data, funding rates, and order execution.
 * [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
