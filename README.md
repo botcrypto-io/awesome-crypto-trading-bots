@@ -82,6 +82,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 ## API and data providers
 
+* [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Free real-time crypto price API aggregating 100+ tokens across 5 exchanges (Binance, Bybit, Coinbase, Kraken, Hyperliquid). No signup required for 200 free credits.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
