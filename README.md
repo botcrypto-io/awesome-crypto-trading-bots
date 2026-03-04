@@ -83,6 +83,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 ## API and data providers
 
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [Clawdia Crypto Feeds](https://api-catalog-three.vercel.app/tools/crypto-prices) - Free real-time price API for 500+ tokens. No API key required. Simple REST: `GET /api/prices` or `GET /api/price/BTC`.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
 * [CoinGecko API](https://www.coingecko.com/en/api) - Complete historic data since 2014. Free for all.
