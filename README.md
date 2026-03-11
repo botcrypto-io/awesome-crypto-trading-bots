@@ -130,3 +130,4 @@ Experience the **ultimate trading bot marketplace** and online **crypto trading 
 
 [![banner](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/94efbecc-df2a-454e-aa71-acad0237a868)](https://kryll.io?ref=botcrypto)
 
+- [PolyClawster](https://github.com/al1enjesus/polyclawster) - AI agent skill for trading on Polymarket prediction markets. Non-custodial, whale signal detection, public leaderboard. Works as OpenClaw skill or Telegram Mini App.
