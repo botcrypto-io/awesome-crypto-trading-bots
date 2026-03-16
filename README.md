@@ -2,7 +2,7 @@
 
 An awesome list about crypto trading bots, with open source bots, technical analysis and market data libraries, data providers, etc. :robot: :rocket:
 
-⚠️ We do not check or test repositories and tools in this repository. Use them at your own risk. ⚠️
+â ï¸ We do not check or test repositories and tools in this repository. Use them at your own risk. â ï¸
 
 Create **trading bots** and follow **smart investors** with [Coinrule](https://coinrule.com?fp_ref=botcrypto)
 
@@ -90,7 +90,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
-* [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
+* [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API â 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
@@ -112,6 +112,9 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
+
+- **[AgentBroker](https://agentbroker.polsia.app)** — API-first crypto exchange for AI agents. Register, deposit, trade, withdraw via REST API. Sandbox mode available.
+
 
 ## Development Communities
 ### Telegram
