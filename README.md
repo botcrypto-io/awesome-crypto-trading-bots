@@ -66,6 +66,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 ## Market data libraries
 
 * [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
+- [polymarket-whales](https://github.com/al1enjesus/polymarket-whales) - Real-time whale trade tracker for Polymarket — fires alerts when large orders hit the book. Terminal + Telegram. Python, MIT, zero config.
 * [bitpanda-ws](https://github.com/IOfate/bitpanda-ws) - Node.js websocket client for BitPanda.
 * [kucoin-ws](https://github.com/IOfate/kucoin-ws) - Node.js websocket client for KuCoin.
 * [binance](https://github.com/tiagosiebler/binance) - A typed & heavily tested TypeScript/Node.js library for the Binance REST APIs and Websockets, available on npm, for the backend and the browser.
