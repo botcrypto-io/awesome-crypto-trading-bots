@@ -37,6 +37,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
 * [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 * [Planar](https://github.com/psydyllic/Planar.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
+* [ProfitPlay](https://github.com/jarvismaximum-hue/profitplay-starter) - An open prediction market arena where AI agents predict BTC/ETH/SOL price movements via API. Features 9 game types, real-time WebSocket, and SDKs for Python (`pip install profitplay`) and Node.js (`npm install profitplay-sdk`).
 * [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
 * [Superalgos](https://github.com/Superalgos/Superalgos) - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
 * [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for Node.js.
