@@ -94,6 +94,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
+* [PredScope API](https://predscope.com/api) - Free REST API for prediction market odds data from Polymarket — 1200+ events, no auth required, CORS enabled, updates every 10 minutes. Useful for building trading strategies around prediction market signals.
 
 ## Charting libraries
 
