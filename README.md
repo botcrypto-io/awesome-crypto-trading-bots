@@ -79,6 +79,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
 * [asynchuobi](https://github.com/sometastycake/asynchuobi) - Python client for Huobi (REST and WebSocket).
+- [Microverse Systems](https://microversesystems.com) - Free real-time L2 order book data from 21 exchanges. WebSocket API, no key required.
 
 ## API and data providers
 
