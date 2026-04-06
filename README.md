@@ -8,6 +8,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 [![coinrule](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/530f18f1-0e93-4ed1-8d66-36eb96276053)](https://coinrule.com?fp_ref=botcrypto)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including automated trading analysis (ICT/SMC), market monitoring, and multi-agent signal coordination. MIT licensed.
 ## Contents
 
 * [Open source bots](#open-source-bots)
