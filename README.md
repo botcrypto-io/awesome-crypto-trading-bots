@@ -94,6 +94,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
+* [bitcoinbottom.app](https://bitcoinbottom.app) - Aggregates 25 on-chain Bitcoin signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, NUPL, ETF flows) into a daily P(bottom) score. Free, no signup, updated twice daily.
 
 ## Charting libraries
 
@@ -112,6 +113,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
+* [btcdca.app](https://btcdca.app) - Bitcoin DCA calculator comparing signal-timed entry timing vs. always-buy with fair capital normalization. Free, no signup.
 
 ## Development Communities
 ### Telegram
