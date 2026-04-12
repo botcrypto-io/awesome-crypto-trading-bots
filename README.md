@@ -112,6 +112,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
+* [Bybit Pump Screener](https://github.com/foxclerec/bybit-pump-screener-light) - Real-time pump screener for Bybit with desktop GUI, sound alerts, and custom detection rules. Python, cross-platform exe.
 
 ## Development Communities
 ### Telegram
