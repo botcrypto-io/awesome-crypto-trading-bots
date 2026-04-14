@@ -118,12 +118,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 ### Telegram
 
 * [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algorithms, bots or auto trading software in crypto.
-* [Node.js Algo Traders](https://github.com/IOfate/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
+* [Node.js Algo Traders](https://t.me/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
 * [PineScripters](https://t.me/pinescripters) - The most active independent community of Pine Scripters on the planet. Share ideas, resources & learn.
-
-### Forums
-
-- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
 
 ### Forums
 
@@ -131,6 +127,6 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 ---
 
-Experience the **ultimate trading bot marketplace** and online **crypto trading bot builder** with **simplicity** with [Kryll](https://kryll.io?ref=botcrypto)
+Experience the **ultimate trading bot marketplace** and online **crypto trading bot builder** with **simplicity** with [Kryll](https://kryll.io?ref=botcrypto).
 
 [![banner](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/94efbecc-df2a-454e-aa71-acad0237a868)](https://kryll.io?ref=botcrypto)
