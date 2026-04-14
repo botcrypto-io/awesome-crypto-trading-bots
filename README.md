@@ -39,6 +39,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Planar](https://github.com/psydyllic/Planar.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
 * [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
 * [Superalgos](https://github.com/Superalgos/Superalgos) - Superalgos is open-source crypto trading bot who let you visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
+* [TrendRider Strategy](https://github.com/darkvolg/trendrider-strategy) - MIT-licensed Freqtrade strategy for Bybit. Multi-timeframe entries with cascading early-loss exit logic (-1.5% at 2h, BE at 4h, +0.5% at 8h, +1% at 16h, forced 24h). Public live dry-run dashboard at https://trendrider.net/live.
 * [WolfBot](https://github.com/Ekliptor/WolfBot) - Crypto currency trading bot written in TypeScript for Node.js.
 * [wolfinch](https://github.com/ldmonko/wolfinch) - A Python trading bot supporting algorithmic trading for equity market and cryptocurrency exchanges. The modularized implementation is easily extensible to support more exchanges, trading strategies and indicators. A simple UI is available out of the box to view trades and allow basic controls in operation.
 * [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
@@ -117,8 +118,12 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 ### Telegram
 
 * [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algorithms, bots or auto trading software in crypto.
-* [Node.js Algo Traders](https://t.me/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
+* [Node.js Algo Traders](https://github.com/IOfate/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
 * [PineScripters](https://t.me/pinescripters) - The most active independent community of Pine Scripters on the planet. Share ideas, resources & learn.
+
+### Forums
+
+- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
 
 ### Forums
 
@@ -126,7 +131,6 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 ---
 
-Experience the **ultimate trading bot marketplace** and online **crypto trading bot builder** with **simplicity** with [Kryll](https://kryll.io?ref=botcrypto).
+Experience the **ultimate trading bot marketplace** and online **crypto trading bot builder** with **simplicity** with [Kryll](https://kryll.io?ref=botcrypto)
 
 [![banner](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/94efbecc-df2a-454e-aa71-acad0237a868)](https://kryll.io?ref=botcrypto)
-
