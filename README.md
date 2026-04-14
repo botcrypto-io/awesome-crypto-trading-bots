@@ -90,6 +90,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
+* [Helium](https://heliumtrades.com/mcp-page/) - Live crypto/stock/ETF data with AI bull/bear analysis, price forecasts, IV rank, options pricing, and news with bias scoring across 5,000+ sources. MCP server and REST API. 50 free queries, no auth. [GitHub](https://github.com/connerlambden/helium-mcp).
 * [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
