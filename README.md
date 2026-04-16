@@ -8,6 +8,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 [![coinrule](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/530f18f1-0e93-4ed1-8d66-36eb96276053)](https://coinrule.com?fp_ref=botcrypto)
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware
+
 ## Contents
 
 * [Open source bots](#open-source-bots)
