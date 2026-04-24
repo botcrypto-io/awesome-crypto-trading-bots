@@ -47,6 +47,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 * [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT.
 
+* [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot for Bybit with 70.9% walk-forward validated accuracy. LightGBM + XGBoost ensemble with 72 engineered ML features. Supports perpetual futures via Bybit v5 API. Python, MIT licensed.
+
 ## Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
