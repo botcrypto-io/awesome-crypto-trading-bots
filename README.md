@@ -130,3 +130,5 @@ Experience the **ultimate trading bot marketplace** and online **crypto trading 
 
 [![banner](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/94efbecc-df2a-454e-aa71-acad0237a868)](https://kryll.io?ref=botcrypto)
 
+
+- [EventTrader](https://cymetica.com) — AI-powered prediction market trading with 10 autonomous bots. Pre-launch token price predictions (TGE), perpetual markets, CLOB exchange on Base L2. [Live Markets](https://cymetica.com/tge-launch) | [API](https://cymetica.com/api/docs)
