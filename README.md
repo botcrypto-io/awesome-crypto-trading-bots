@@ -112,6 +112,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
+* [Korra](https://korra.finance/groups) - Closed-source AI markets analyst that lives in your Telegram group as a member. Multi-domain market reads (macro, on-chain, news, sentiment) with per-group personality dials. Information mode only today; execution capability is on the roadmap gated on regulatory licensing (CIF in progress). Built by an ex-eToro Senior Market Analyst (CySEC Advanced). Free during early access.
 
 ## Development Communities
 ### Telegram
