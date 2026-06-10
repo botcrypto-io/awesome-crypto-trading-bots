@@ -46,6 +46,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 * [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 * [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT.
+* [Inalpha](https://github.com/mirror29/inalpha) - AI agent framework for systematic trading: agents pick the factors working now to time entries, write full Python strategies audited in sandboxes, and evolve them — every order passes machine approval, the LLM has no direct order path. Crypto via CCXT with backtesting and paper trading, plus US/CN/HK equities and macro data.
 
 ## Technical analysis libraries
 
