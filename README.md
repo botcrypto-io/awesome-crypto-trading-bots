@@ -23,6 +23,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [bTrader](https://github.com/gabriel-milan/btrader) - A very low setup and simple to use triangular arbitrage trading bot for Binance, developed in Rust for maximum performance.
 * [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
 * [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.
+- [terafab-cli](https://github.com/polsolbridge/terafab-cli) - CLI for instant no-KYC crypto swaps. `npx terafab-cli swap:quote BTC XMR 0.1`. Multi-chain RPC, x402 payments. REST API for bot integration.
 * [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
 * [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
 * [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
