@@ -46,6 +46,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 * [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 * [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT.
+* [bitget-sma-bot](https://github.com/alexch03/bitget-sma-bot) - Hackable Python trading bot for Bitget USDT-M perpetuals with SMA, Bollinger Bands, and RSI strategies. Supports paper, dry-run, free Bitget demo testnet, and live modes. Includes Flask web UI, Telegram alerts, SL/TP, grid optimizer, and a 1-click Windows installer.
+* [analyseur-crypto](https://github.com/alexch03/analyseur-crypto) - Multi-timeframe crypto market structure analyzer for Bitget written in Python. Rule-based detection of BOS, CHOCH, FVG, and order blocks; paper trading engine with broker-parity backtesting; FastAPI dashboard, Telegram bot, 206 unit tests.
 
 ## Technical analysis libraries
 
