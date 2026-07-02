@@ -94,6 +94,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
+* [currencyinfo](https://github.com/Adamant-im/currencyinfo) - Self-hosted Node.js tool that aggregates cryptocurrency exchange rates and fiat market data from multiple providers with a unified API. Checks multiple sources for discrepancies.
 
 ## Charting libraries
 
