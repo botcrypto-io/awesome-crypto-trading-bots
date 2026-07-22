@@ -46,6 +46,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [binance-futures-trading-bot](https://github.com/Erfaniaa/binance-futures-trading-bot) - Easy-to-use multi-strategic automatic trading for Binance Futures with Telegram integration
 * [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 * [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT.
+* [martingale-kit](https://github.com/tradingale/martingale-kit) - Open-source TypeScript engine and self-hosted runner for martingale sequence strategies: tested ladder math, one-active-sell state machine, paper simulator, live Kraken and Alpaca adapters, one-click Railway deploy.
 
 ## Technical analysis libraries
 
@@ -94,6 +95,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
+* [Tradingale](https://tradingale.com) - Martingale-specific data provider: descriptive Martingale Score and Startingale metrics plus dimensionless sequence parameters for 250+ crypto pairs and 100+ US stocks, via REST API and MCP server. Free tier included.
 
 ## Charting libraries
 
