@@ -51,6 +51,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
 * [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
+* [perpsignal](https://github.com/mokshyaprotocol/signalview) - A Pandas-based signal engine for perpetual futures: compose indicators into a strategy expression, then backtest it into Sharpe, return, drawdown and win rate with fees, funding, stops and leverage modelled.
 * [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
 * [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
 * [ta-lib](https://github.com/mrjbq7/ta-lib) - A widely used library by trading software developers requiring to perform technical analysis of financial market data.
