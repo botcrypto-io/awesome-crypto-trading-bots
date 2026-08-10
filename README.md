@@ -85,6 +85,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 ## API and data providers
 
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [Codex API](https://www.codex.io/) - Real-time and historical token prices, charts and holder data across 80+ networks. Free plan available.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
 * [CoinPaprika API](https://api.coinpaprika.com) - 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free tier, no API key.
