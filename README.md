@@ -129,4 +129,5 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 ### Forums
 
 - [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
+- [SmartQuant](https://smartquanthq.com) - AI quant trading learning hub: 180 pages, 5 languages (ZH/EN/JA/KO/AR), free educational content on AI strategies, backtesting, and risk management.
 
