@@ -110,6 +110,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
 
 ## Miscellaneous tools
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram/Discord when an SPL token crosses a price threshold, no API key needed.
 Production-grade Rust-native trading engine with deterministic event-driven architecture
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
