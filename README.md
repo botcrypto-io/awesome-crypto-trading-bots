@@ -88,6 +88,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [Codex API](https://www.codex.io/) - Real-time and historical token prices, charts and holder data across 80+ networks. Free plan available.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
+* [CoinLobster API](https://coinlobster.com/developers) - Live executed whale trades across 15 exchanges and on-chain DEX. Keyless free tier, credit packs and monthly plans.
 * [CoinPaprika API](https://api.coinpaprika.com) - 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free tier, no API key.
 * [CoinGecko API](https://www.coingecko.com/en/api) - CompProduction-grade Rust-native trading engine with deterministic event-driven architecturelete historic data since 2014. Free for all.
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
