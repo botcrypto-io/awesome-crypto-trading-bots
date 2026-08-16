@@ -67,6 +67,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 
 ## Market data libraries
 
+* [fundingradar](https://github.com/economic-agent/fundingradar) - Python CLI that ranks every Hyperliquid perp by |hourly funding| with annualized %, premium, and open interest; cron-friendly exit codes for threshold alerts. Stdlib only, no API key needed.
 * [aio-kraken-ws](https://gitlab.com/cdlr75/aio-kraken-ws) - Python library on top of asyncio to stream market data from Kraken.
 * [bitpanda-ws](https://github.com/IOfate/bitpanda-ws) - Node.js websocket client for BitPanda.
 * [kucoin-ws](https://github.com/IOfate/kucoin-ws) - Node.js websocket client for KuCoin.
