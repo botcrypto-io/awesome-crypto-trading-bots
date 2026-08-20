@@ -84,6 +84,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 
 ## API and data providers
 
+* [Adanos](https://adanos.org/) - Crypto market sentiment API using Reddit, news, and Polymarket signals for trading tools.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [Codex API](https://www.codex.io/) - Real-time and historical token prices, charts and holder data across 80+ networks. Free plan available.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
