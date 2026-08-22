@@ -130,3 +130,4 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 
 - [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
 
+- [SolSniper](https://github.com/ezequiellich44-cmd/SolSniper) - The most advanced Solana trading bot with AI-powered rug detection (94% accuracy, token scoring 0.0-1.0), 0% fees, auto trading (TP/SL), smart money tracking, Jito bundles. Self-hosted, open source.
