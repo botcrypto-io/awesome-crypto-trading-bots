@@ -93,7 +93,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
-* [DexPaprika API](https://api.dexpaprika.com) - Free DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
+* [Web3ID Intelligence API](https://web3id.xyz) - 359 x402-native market-data endpoints (prices, Fear & Greed, DeFi TVL, Binance tickers, FX). Pay per call in USDC on Base L2, no API key. Free tier available.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
 * [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
