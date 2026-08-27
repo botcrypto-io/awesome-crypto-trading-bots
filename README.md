@@ -26,6 +26,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.
 * [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
 * [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
+* [Darkbot.io](https://darkbot.io) - Cloud crypto trading bot platform with Grid, DCA, Smart Order, and a visual strategy builder. Includes backtesting, paper trading, and 20+ exchanges via CCXT.
 * [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
 * [freqtrade](https://github.com/freqtrade/freqtrade) - Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 * [Frostybot-JS](https://github.com/JulienPlanchetCoineo/frostybot-js) - Frostybot-JS is a cryptocurrency trading API endpoint designed to execute webhooks as orders on an exchange
