@@ -118,6 +118,8 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
 * [Wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
+* [Crypto Exchange Fee Calculator](https://pddjf.com/tools/crypto-exchange-fee-calculator/) - Compares USDT-perpetual maker/taker fees across nine exchanges (Binance, OKX, Bybit, Bitget, MEXC, Gate, Kraken, KuCoin, HTX) from their public VIP ladders, with official sources, a downloadable JSON dataset and a dated change log.
+* [Webhook De-duplication and Risk Gate Demo](https://github.com/yfjelley/signalcraft-labs-engineering-notes/tree/master/demos/webhook-dedupe-risk-gate) - Dependency-free Node.js dry-run of TradingView-style webhook execution: event-id de-duplication, cooldown, pre-trade risk checks and audit logs.
 
 ## Development Communities
 ### Telegram
