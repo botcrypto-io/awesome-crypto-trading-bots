@@ -91,6 +91,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [CoinPaprika API](https://api.coinpaprika.com) - 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free tier, no API key.
 * [CoinGecko API](https://www.coingecko.com/en/api) - CompProduction-grade Rust-native trading engine with deterministic event-driven architecturelete historic data since 2014. Free for all.
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
+* [CoinNudge](https://coinnudge.site/data) - Free current crypto research datasets in JSON/CSV, including market breadth, funding and open interest views. Free accounts get one API key with a shared limit of 60 requests per minute; historical Market Events releases are separate and paid.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexPaprika API](https://api.dexpaprika.com) - Free DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
