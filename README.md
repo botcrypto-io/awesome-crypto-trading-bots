@@ -95,6 +95,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexPaprika API](https://api.dexpaprika.com) - Free DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
+* [Eulerpool API](https://eulerpool.com/developers) - Crypto, DeFi and DEX data (prices, OHLCV, on-chain, funding rates, open interest) alongside stocks, FX and macro. Free plan available.
 * [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
