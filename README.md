@@ -18,6 +18,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 ## Open source bots
 
+* [Blave Agent](https://github.com/Blave-TW/blave-agent) - Open-source macOS desktop app where your own Claude Code or Codex writes a crypto strategy, backtests it with a Monte Carlo permutation test, parameter scan and walk-forward, and runs it live on Binance, OKX, BingX, Gate.io or Bybit, or in paper trading. Orders go out through deterministic scheduled code, not the LLM.
 * [Nautilus](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 * [the0](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Write your strategy in Python, TypeScript, Rust, C++, C#, Scala, or Haskell and deploy with one command. Each bot runs in an isolated container.
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
