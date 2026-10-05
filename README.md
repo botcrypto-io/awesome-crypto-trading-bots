@@ -108,6 +108,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [Highchart Stock](https://www.highcharts.com/blog/products/stock/) - Create stock or general timeline charts for your web and mobile apps. Features user annotations and over 40 built-in Technical Indicators. Licensed.
 * [TradeX-Chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in plain (vanilla) JavaScript with mobile support
 * [KLineChart ](https://github.com/klinecharts/KLineChart/) - Lightweight k-line chart that can be highly customized.
+* [TradeCanvas](https://github.com/bonguynvan/tradecanvas) - Open-source TypeScript trading chart with 111 indicators, drawing tools, Binance, Coinbase, Bybit and Kraken feeds, and orders on the chart.
 
 ## Miscellaneous tools
 Production-grade Rust-native trading engine with deterministic event-driven architecture
