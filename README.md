@@ -92,6 +92,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [CoinGecko API](https://www.coingecko.com/en/api) - CompProduction-grade Rust-native trading engine with deterministic event-driven architecturelete historic data since 2014. Free for all.
 * [CoinMarketCap API](https://coinmarketcap.com/api/) - Complete historic data since 2013. Free plan available.
 * [CryptoCompare API](https://min-api.cryptocompare.com/) - Real-time and historical data. Free plan available.
+* [Crypto Vision](https://cryptocurrency.cv/developers) - Free crypto news API with market context for Bitcoin, Ethereum, DeFi and Solana. JSON REST and RSS, no API key.
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexPaprika API](https://api.dexpaprika.com) - Free DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
