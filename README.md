@@ -18,6 +18,8 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 
 ## Open source bots
 
+* [QWK ($QWK) Autonomous MEV Infrastructure](https://github.com/chase-tqg/QWIK-MEV-Core) – Multi-chain EVM atomic arbitrage & smart contract seed escrow (`QWKResourceEscrow.sol`) backed by $400,000+ in verified enterprise infrastructure grants (Google Cloud, NVIDIA, Cloudflare) with A2A v1.0, x402, and MCP interfaces.
+
 * [Nautilus](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 * [the0](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Write your strategy in Python, TypeScript, Rust, C++, C#, Scala, or Haskell and deploy with one command. Each bot runs in an isolated container.
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
@@ -129,4 +131,3 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 ### Forums
 
 - [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
-
