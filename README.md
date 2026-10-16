@@ -85,6 +85,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 ## API and data providers
 
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
+* [Chord](https://getchord.xyz/docs) - DEX swap routing and trade data API for bots and AI agents on 8 EVM chains plus Solana: best-route quotes, unsigned swap transactions, trades, candles. Free, no API key.
 * [Codex API](https://www.codex.io/) - Real-time and historical token prices, charts and holder data across 80+ networks. Free plan available.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
 * [CoinCap API](https://docs.coincap.io/) - Real-time and historical data. Free for all.
