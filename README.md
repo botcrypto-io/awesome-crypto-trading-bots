@@ -118,6 +118,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
 * [Wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
+* [n8n-crypto-price-alerts](https://github.com/cryptoflows/n8n-crypto-price-alerts) - Free, open source n8n workflow that sends Telegram alerts when a coin crosses a price level, fires once and re-arms when price moves back.
 
 ## Development Communities
 ### Telegram
