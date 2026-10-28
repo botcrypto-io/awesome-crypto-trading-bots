@@ -113,6 +113,8 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 Production-grade Rust-native trading engine with deterministic event-driven architecture
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
+* [Kraken Spot API field notes](https://github.com/Jorg-AI-JorgAI/kraken-spot-api-field-notes) - Production notes on the Kraken Spot REST API: the private call counter, per-key nonces, no bracket orders, pair naming, with a runnable signed-call example.
+* [Crypto.com Exchange API field notes](https://github.com/Jorg-AI-JorgAI/crypto-com-exchange-api-field-notes) - Production notes on the Crypto.com Exchange API v1: Exchange vs App balances, no bracket orders, notional market buys, the IP whitelist, with a signing example.
 * [financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation) - Analyze financial data correlations fast and easily
 * [financial-dataset-generator](https://github.com/Erfaniaa/financial-dataset-generator) - Easy-to-use dataset generator for applying machine learning on financial markets
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
