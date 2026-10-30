@@ -81,6 +81,8 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
 * [asynchuobi](https://github.com/sometastycake/asynchuobi) - Python client for Huobi (REST and WebSocket).
+* [seeryx-python](https://github.com/Seeryx/seeryx-python) - Python client (blocking and asyncio) for the Seeryx prediction market on Solana: REST market data, locally signed orders and auto-reconnecting WebSocket streams.
+* [seeryx-rust](https://github.com/Seeryx/seeryx-rust) - Rust (tokio) client for the Seeryx prediction market on Solana: REST market data, locally signed orders and auto-reconnecting WebSocket streams.
 
 ## API and data providers
 
