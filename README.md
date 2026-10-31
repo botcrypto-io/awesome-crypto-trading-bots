@@ -55,7 +55,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [perpsignal](https://github.com/mokshyaprotocol/signalview) - A Pandas-based signal engine for perpetual futures: compose indicators into a strategy expression, then backtest it into Sharpe, return, drawdown and win rate with fees, funding, stops and leverage modelled.
 * [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
 * [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
-* [ta-lib](https://github.com/mrjbq7/ta-lib) - A widely used library by trading software developers requiring to perform technical analysis of financial market data.
+* [TA-Lib](https://github.com/TA-Lib/ta-lib) - Technical analysis library with 200+ functions, including candlestick patterns, implemented natively in C/C++, Rust, Java and C#, with batch and streaming APIs. Python wrapper: [ta-lib-python](https://github.com/TA-Lib/ta-lib-python).
 * [ta-rs](https://github.com/greyblake/ta-rs) -  Technical analysis library for Rust language.
 * [ta4j](https://github.com/ta4j/ta4j) - Ta4j is an open source Java library for technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.
 * [TechAn](https://github.com/sdcoffey/techan) - TechAn is a technical analysis library for Go! It provides basic and advanced technical analysis indicators, profit and trade analysis and strategy building.
