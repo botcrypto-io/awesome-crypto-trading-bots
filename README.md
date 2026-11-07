@@ -98,6 +98,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
+* [Swiftedge](https://swiftedge.uk/developers) - Free JSON API (no key) with live order book walls, resting liquidity, funding and open interest for 9 markets, plus a browser order book heatmap and an MCP server for AI agents.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
 
 ## Charting libraries
