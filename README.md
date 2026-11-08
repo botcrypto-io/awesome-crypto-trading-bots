@@ -22,6 +22,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [the0](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Write your strategy in Python, TypeScript, Rust, C++, C#, Scala, or Haskell and deploy with one command. Each bot runs in an isolated container.
 * [Backtrader](https://github.com/mementum/backtrader) - A feature-rich Python framework for backtesting and trading.
 * [bTrader](https://github.com/gabriel-milan/btrader) - A very low setup and simple to use triangular arbitrage trading bot for Binance, developed in Rust for maximum performance.
+* [BSC Arbitrage Scanner](https://github.com/arbincept/bsc-arbitrage-scanner) - Open-source, read-only Python tool comparing WBNB quote cycles using KyberSwap routes, GoPlus security and tax signals, DexScreener liquidity, and gas modeling. Alerts are theoretical opportunities, not executed trades.
 * [BVA](https://github.com/bitcoinvsalts/node-binance-trader) - A Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance.
 * [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) -  Cassandre makes it easy to create and run a Java crypto trading bot. Cassandre takes care of exchange connections, accounts, orders, and position management.
 * [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
