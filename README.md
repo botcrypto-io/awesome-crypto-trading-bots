@@ -99,6 +99,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
+* [Vextorium](https://vextorium.com) - 200+ pay-per-call data APIs for bots and AI agents: crypto prices, portfolio valuation, risk and PnL calculators, official economic statistics and compliance checks. Paid in USDC via x402, no API key. Open-source Python client with a freqtrade helper: [vextorium-python](https://github.com/bru1noia/vextorium-python).
 
 ## Charting libraries
 
