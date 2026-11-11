@@ -111,7 +111,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 
 ## Miscellaneous tools
 Production-grade Rust-native trading engine with deterministic event-driven architecture
-* [Crypto-Strategies](https://github.com/CacheCarti/Crypto-Strategies) - Open corpus of 748 crypto trading strategies with per-stage validation report cards.
+* [Crypto-Strategies](https://github.com/CacheCarti/Crypto-Strategies) - Open corpus of 2,700 crypto trading strategies with per-stage validation report cards and hash-bound certificates.
 * [OrderBooks](https://github.com/tiagosiebler/OrderBooks) - A minimal & dependency-free set of Node.js utilities for handling orderbook snapshots and delta updates.
 * [Awesome Crypto API Node.js Examples](https://github.com/tiagosiebler/awesome-crypto-examples) - A collection of examples for working with various crypto exchange APIs and WebSockets.
 * [financial-indexes-correlation](https://github.com/Erfaniaa/financial-indexes-correlation) - Analyze financial data correlations fast and easily
