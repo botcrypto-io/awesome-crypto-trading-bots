@@ -98,6 +98,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
+* [TAAPI](https://taapi.io/) - 260+ technical indicators (RSI, MACD, Bollinger Bands, etc.) over REST, live and historical, for Binance, Bybit, Kraken, Gate.io and US stocks. Free plan available.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
 
 ## Charting libraries
