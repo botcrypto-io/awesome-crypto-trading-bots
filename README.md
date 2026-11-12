@@ -84,6 +84,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 
 ## API and data providers
 
+* [Aperiodic](https://aperiodic.io/) - Point-in-time microstructure, liquidity and order-flow metrics plus raw trades, quotes and derivatives data for crypto perps on venues including Binance, OKX and Hyperliquid, as parquet. Free plan (API key, no card): every metric for 2025 on BTC, ETH, SOL and 10 RWA perps, 1,000 requests a day; paid plans for full access.
 * [Bitquery](https://bitquery.io/) - Blockchain and DEX data APIs.
 * [Codex API](https://www.codex.io/) - Real-time and historical token prices, charts and holder data across 80+ networks. Free plan available.
 * [CoinAPI](https://www.coinapi.io/) - 308 exchanges integrated in a single API. Real-time and historical data.
