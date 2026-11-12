@@ -36,6 +36,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 * [K](https://github.com/ctubio/Krypto-trading-bot) - K is a very low latency market making trading bot with a fully featured web interface. It can place and cancel orders on one of several supported cryptocoin exchanges in less than a few miliseconds per order on a decent machine.
 * [Kelp](https://github.com/stellar/kelp) - Kelp is a free and open-source market making bot for the Stellar universal marketplace and for centralized exchanges such as Binance, Kraken, CoinbasePro, etc.
 * [magic8bot](https://github.com/magic8bot/magic8bot) - Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.
+* [Mangrove Agent](https://github.com/MangroveTechnologies/mangrove-agent) - Open source MCP server that lets AI agents build, backtest and paper trade crypto strategies, then trade on Kraken or DEXs through 1inch under user set risk limits.
 * [Octobot](https://github.com/Drakkar-Software/OctoBot) - Powerful fully modular open-source cryptocurrency trading bot with trading tools, a backtesting engine, an user interface, etc.
 * [Planar](https://github.com/psydyllic/Planar.jl) - Fast, flexible and featureful crypto trading bot (and framework) written in Julia, based on CCXT.
 * [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client. This software helps you open and cancel orders very fast. Real time data monitoring. Developed on pure Qt, uses OpenSSL, AES 256 key and secret protection.
