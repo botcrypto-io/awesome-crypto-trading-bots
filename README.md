@@ -77,6 +77,8 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [ccxt](https://github.com/ccxt/ccxt) - A well-established JavaScript / Python / PHP crypto trading library supporting more than 120 bitcoin/altcoin exchanges.
 * [coinnect](https://github.com/hugues31/coinnect) - A Rust crypto trading library aiming to provide a complete access to main crypto currencies exchanges via REST API.
 * [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) - A self hosted unified REST API to various exchanges (can be used to automate trading or build bots).
+* [hyperliquid-api](https://github.com/sieblyio/hyperliquid-api) - A typed TypeScript/Node.js SDK for the Hyperliquid info and exchange APIs, WebSocket streams and WebSocket API, available on npm as @siebly/hyperliquid-api, with testnet support.
+* [kraken-api](https://github.com/sieblyio/kraken-api) - A typed TypeScript/Node.js SDK for the Kraken Spot and Futures REST APIs and WebSockets, available on npm as @siebly/kraken-api.
 * [node-binance-api](https://github.com/jaggedsoft/node-binance-api) - A Node.js library for the Binance API designed to be easy to use.
 * [okx-api](https://github.com/tiagosiebler/okx-api) - A typed & heavily tested TypeScript/Node.js library for the OKX (OKEX) REST APIs and Websockets, available on npm, for the backend and the browser.
 * [python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading.
