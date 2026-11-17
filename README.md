@@ -99,6 +99,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
 * [Tradifull API](https://docs.tradifull.com/) - Direct access to exchanges tickers in a unified way, or to our calculated average prices, low, high, volumes, available in a lot of fiats/stable coins. Free for all.
+* [TRdesk](https://trdesk.com/) - Crypto derivatives analytics: liquidation maps, aggregated open interest, funding rates and order book heatmap across 20+ exchanges. Free plan available.
 
 ## Charting libraries
 
