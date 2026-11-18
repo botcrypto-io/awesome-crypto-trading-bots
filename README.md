@@ -95,6 +95,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [FinancialData.Net](https://financialdata.net/) - Crypto information, real-time quotes, intraday and end-of-day data.
 * [DexPaprika API](https://api.dexpaprika.com) - Free DEX data across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 * [DexScreener API](https://docs.dexscreener.com/api/reference) - Real-time DEX pairs, pools and token profiles API.
+* [Hydromancer Reservoir](https://hydromancer.xyz/hyperliquid-historical-data) - Free Hyperliquid historical data archive from Hydromancer, a Hyperliquid data provider: every fill since July 2025, 1-second candles, daily position snapshots and minute-level L2 order book snapshots as daily Parquet files on AWS S3 (requester pays).
 * [NanoStack](https://github.com/nano-labs-io/nanostack-api) - Permissionless cross-chain execution API — 59 chains, 8-15 bps fees, real-time signal data with BLAKE3 proofs.
 * [Nomics API](https://p.nomics.com/cryptocurrency-bitcoin-api) - Trades and orders, market data, market cap.
 * [shrimpy developers](https://developers.shrimpy.io/) - Real-time full order book data, limit orders, open orders, smart order routing, exchange account management, user management, and a complete cloud infrastructure solution right out of the box.
