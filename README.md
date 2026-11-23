@@ -118,6 +118,7 @@ Production-grade Rust-native trading engine with deterministic event-driven arch
 * [undervalued-crypto-finder](https://github.com/Erfaniaa/undervalued-crypto-finder) - Get a list of cryptocurrencies which are now cheap and may be a good opportunity for investment. This project finds some cryptocurrencies which are below the daily moving average (eg. MA200).
 * [Gunbot Quant](https://github.com/GuntharDeNiro/gunbot-quant) - Standalone application for market screening and backtesting, focus on screening with algo trading in mind, offers repeatable workflows and useful, beautiful reports.
 * [Wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
+* [Cryptonisation AI Tools](https://aitools.cryptonisation.pro/ai-crypto-trading-bots/) - Free catalog of AI crypto trading bots and agents from GitHub, showing the access level each tool needs: read-only, trading or withdrawals.
 
 ## Development Communities
 ### Telegram
